@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ChandanMaurya/static/css/main.04150c94.chunk.css",
-    "main.js": "/ChandanMaurya/static/js/main.cda9e7e0.chunk.js",
-    "main.js.map": "/ChandanMaurya/static/js/main.cda9e7e0.chunk.js.map",
+    "main.css": "/ChandanMaurya/static/css/main.d7fe5e29.chunk.css",
+    "main.js": "/ChandanMaurya/static/js/main.9bf9f0b8.chunk.js",
+    "main.js.map": "/ChandanMaurya/static/js/main.9bf9f0b8.chunk.js.map",
     "runtime-main.js": "/ChandanMaurya/static/js/runtime-main.c9e7abe1.js",
     "runtime-main.js.map": "/ChandanMaurya/static/js/runtime-main.c9e7abe1.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/ChandanMaurya/static/css/2.20aa2d7b.chunk.css",
@@ -10,11 +10,16 @@
     "static/js/2.3a38b23d.chunk.js.map": "/ChandanMaurya/static/js/2.3a38b23d.chunk.js.map",
     "index.html": "/ChandanMaurya/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/ChandanMaurya/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.04150c94.chunk.css.map": "/ChandanMaurya/static/css/main.04150c94.chunk.css.map",
+    "static/css/main.d7fe5e29.chunk.css.map": "/ChandanMaurya/static/css/main.d7fe5e29.chunk.css.map",
     "static/js/2.3a38b23d.chunk.js.LICENSE.txt": "/ChandanMaurya/static/js/2.3a38b23d.chunk.js.LICENSE.txt",
+    "static/media/ChandanMaurya_Resume.ab92b52d.pdf": "/ChandanMaurya/static/media/ChandanMaurya_Resume.ab92b52d.pdf",
     "static/media/App.css": "/ChandanMaurya/static/media/back3.4f67d3f1.png",
     "static/media/feed_project.03f4d882.JPG": "/ChandanMaurya/static/media/feed_project.03f4d882.JPG",
+    "static/media/github.553c6615.png": "/ChandanMaurya/static/media/github.553c6615.png",
+    "static/media/gmail.cc1e7a65.png": "/ChandanMaurya/static/media/gmail.cc1e7a65.png",
     "static/media/hacker.3337767d.png": "/ChandanMaurya/static/media/hacker.3337767d.png",
+    "static/media/instagram.cdaae8e9.png": "/ChandanMaurya/static/media/instagram.cdaae8e9.png",
+    "static/media/linkedin.6892b3ae.png": "/ChandanMaurya/static/media/linkedin.6892b3ae.png",
     "static/media/memokeep.3131d452.JPG": "/ChandanMaurya/static/media/memokeep.3131d452.JPG",
     "static/media/p1.7af326e8.JPG": "/ChandanMaurya/static/media/p1.7af326e8.JPG",
     "static/media/p2.357db8ac.jpeg": "/ChandanMaurya/static/media/p2.357db8ac.jpeg"
@@ -23,7 +28,7 @@
     "static/js/runtime-main.c9e7abe1.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.3a38b23d.chunk.js",
-    "static/css/main.04150c94.chunk.css",
-    "static/js/main.cda9e7e0.chunk.js"
+    "static/css/main.d7fe5e29.chunk.css",
+    "static/js/main.9bf9f0b8.chunk.js"
   ]
 }
